@@ -52,9 +52,9 @@ for ar L1 p-value is 0.810 and for ar L2 0.92 which is higher than 0.05, so ARMA
 <li>In the GARCH model, P-value  is 3.708e-02 which is lower than 0.05 so this is a good fit model.,Also the AIC is the lowest amongst the 3 models (ARMA, ARIMA and GARCH)*</li>
 
 
-Use the results of the time series analysis and modeling to answer the following questions:
+Using the results of the time series analysis and modeling to answer the following questions:
 
-1. Based on your time series analysis, would you buy the yen now?
+1. Based on time series analysis, would you buy the yen now?
 2. Is the risk of the yen expected to increase or decrease?
 3. Based on the model evaluation, would you feel confident in using these models for trading?
 
