@@ -41,7 +41,10 @@ for ar L1 p-value is 0.810 and for ar L2 0.92 which is higher than 0.05, so ARMA
 <l> Here from the model we can see that the ar-L3 has a p-value of 0.302 and ar-L4 0.374 which is better than the ar-1 and ar-2. But the lags are still greater than 0.05. So still the ARIMA model doesnot seem to be a good fit*
 
 4. Forecasting Volatility with GARCH.
+
+
 ![Volitality chart](Images/std_residuals_annvolitaly.png)
+
 
 ![Final volitality forecast](Images/final_forecast.png)
 
