@@ -17,7 +17,7 @@ In this notebook, we load historical Dollar-Yen exchange rate futures data and a
 
 ![Yen_future_settle](Images/Yen_futures_settle_prices.png)
 
-From the above chart we can see that the price are stationary 
+From the above chart we can see that the prices are stationary 
 
 Following steps in the time-series notebook to complete the following:
 
